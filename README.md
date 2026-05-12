@@ -4,7 +4,7 @@ An integrated epidemiological and genomic simulation framework for *Chlamydia tr
 
 This is the companion code repository for the manuscript:
 
-> **"Genetic inference of trachoma transmission: fundamental limitations and a path forward"**
+> **"A simulation-based evaluation of Chlamydia trachomatis transmission directionality."**
 > Mouhamadou Fadel Diop et al. *(in preparation)*
 
 ---
